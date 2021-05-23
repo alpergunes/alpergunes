@@ -1,12 +1,14 @@
 
 
 
-**alpergunes/alpergunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h1 align='center'>
   Hi there 👋 I'm Alper 👨‍💻
 </h1>
-
+<p align='center'>
+  A data science enthusiast and python lover.
+</p>
 
 
 [<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
