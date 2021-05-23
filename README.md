@@ -27,7 +27,7 @@ I am interested in machine learning and artificial intelligence. I’m trying to
 [twitter]: https://twitter.com/alper__gunes
 [youtube]:https://www.youtube.com/channel/UCEUdxB6MY6DIU3AhIj-Tfyg
 [medium]: https://alprgunes.medium.com/
-[linkedin]: https://dev.to/alpergunes
+[linkedin]: hwww.linkedin.com/in/alprgunes
 
 </p>
 
