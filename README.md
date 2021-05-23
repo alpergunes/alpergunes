@@ -24,7 +24,7 @@
 
 
 
-[twitter]: https://twitter.com/alper___gunes
+[twitter]: https://twitter.com/alper__gunes
 [youtube]:https://www.youtube.com/channel/UCEUdxB6MY6DIU3AhIj-Tfyg
 [medium]: https://alprgunes.medium.com/
 [linkedin]: https://dev.to/alpergunes
