@@ -20,7 +20,7 @@
 
 |Email|alprgunes@gmail.com|
 |-----|---------------------|
-|**LinkedIn** |**[Alper Güneş](https://www.linkedin.com/in/alprgunes//)**   |
+
 
 
 
