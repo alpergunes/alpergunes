@@ -7,7 +7,7 @@
   Hi there 👋 I'm Alper 👨‍💻
 </h1>
 <p align='center'>
-  A data science enthusiast and python lover.
+  A data science enthusiast and python lover. I am a senior econometry student at Dokuz Eylül University. I am interested in machine learning and artificial intelligence. I’m trying to improve myself in these areas. After my bachelor degree, I am planning to receive a graduate degree and to work on various projects about machine learning and artificial intelligence.
 
 
  
