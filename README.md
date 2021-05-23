@@ -7,7 +7,7 @@
   Hi there 👋 I'm Alper. A data science enthusiast and python lover.:man_technologist:
 </h1>
 <p align='center'>
- I am a senior econometry student at Dokuz Eylül University. I am interested in machine learning and artificial intelligence. I’m trying to improve myself in these areas. After my bachelor degree, I am planning to receive a graduate degree and to work on various projects about machine learning and artificial intelligence.
+ I am a senior econometrics student at Dokuz Eylül University. I am interested in machine learning and artificial intelligence. I’m trying to improve myself in these areas. After my bachelor degree, I am planning to receive a graduate degree and to work on various projects about machine learning and artificial intelligence.
 
 
  
