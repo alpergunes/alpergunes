@@ -29,5 +29,5 @@ I am interested in machine learning and artificial intelligence. I’m trying to
 [medium]: https://alprgunes.medium.com/
 [linkedin]: hwww.linkedin.com/in/alprgunes
 
-</p>
+
 
